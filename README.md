@@ -3,6 +3,9 @@
 CipherVault - A lightweight, client-side encryption tool with a retro-neon cyberpunk interface.  
 CipherVault allows users to securely encrypt and decrypt messages entirely in the browser without sending any data to a server.
 
+**Try it Online:** [https://programmingexperiencelab.github.io/CipherVault/](https://programmingexperiencelab.github.io/CipherVault/)
+
+
 ---
 
 ## Overview
